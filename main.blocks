@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="!,c}{[QE.k7giM:[fIWG" x="0" y="0"></block><block type="device_forever" id="7.7VxAn{j*V)1plPpPSN" x="205" y="0"></block><block type="device_button_event" id="Q^|q.n6*v;FXy8pSA=#N" x="46" y="262"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_if" id="srAh[4q[k/~-Z)+A+qHR"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="[:h(^mT^e,PsN{~e+LSP"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_show_leds" id="bI`jj1p0eb!kK2ln}j8O"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . # . 
+        # . # . . 
+        . # . . .
+        `</field></block></statement><statement name="ELSE"><block type="basic_show_icon" id="xdD83Pz#`:S.-iiq%AAe"><field name="i">IconNames.No</field></block></statement></block></statement></block></xml>
